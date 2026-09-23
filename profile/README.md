@@ -4,8 +4,9 @@ Static presentational web properties. Personal pages and landings that change on
 
 ## Contributing
 
-Default instructions in . The canonical Individual
-Contributor License Agreement for this organization is version 1.0.
+Default instructions in `CONTRIBUTING.md`. The canonical Individual
+Contributor License Agreement for this organization is version 1.0 at
+[`cla-v1.0`](https://github.com/corbet-web/.github/blob/cla-v1.0/CLA.md).
 The pull-request affirmation is the acceptance record.
 
 ## Security
